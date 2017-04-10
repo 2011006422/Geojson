@@ -1,0 +1,50 @@
+﻿{
+  "type": "FeatureCollection",
+
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "Name": "Hanson Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 168.35658, -46.41418 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "Name": "I Block"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 168.35568, -46.41396 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "Name": "Reception"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 168.35561, -46.41332 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "Name": "Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 168.3546, -46.41332 ]
+      }
+    }
+  ]
+}
