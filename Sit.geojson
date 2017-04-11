@@ -6,7 +6,7 @@
       "type": "Feature",
       "id": 1,
       "properties": {
-         "popupContent": "This is Hanson Hall!",
+        "popupContent": "This is Hanson Hall!",
         "Name": "Hanson Hall"
       },
       "geometry": {
