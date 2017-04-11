@@ -6,6 +6,7 @@
       "type": "Feature",
       "id": 1,
       "properties": {
+         "popupContent": "This is Hanson Hall!",
         "Name": "Hanson Hall"
       },
       "geometry": {
@@ -17,6 +18,7 @@
       "type": "Feature",
       "id": 2,
       "properties": {
+        "popupContent": "This I Block!",
         "Name": "I Block"
       },
       "geometry": {
@@ -28,6 +30,7 @@
       "type": "Feature",
       "id": 3,
       "properties": {
+        "popupContent": "This the SIT front desk!",
         "Name": "Reception"
       },
       "geometry": {
@@ -39,6 +42,7 @@
       "type": "Feature",
       "id": 4,
       "properties": {
+        "popupContent": "This the SIT Library!",
         "Name": "Library"
       },
       "geometry": {
