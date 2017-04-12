@@ -7,7 +7,7 @@
       "id": 1,
       "properties": {
         "popupContent": "This is Hanson Hall!",
-        "Name": "Hanson Hall"
+        "Title": "Hanson Hall"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +19,7 @@
       "id": 2,
       "properties": {
         "popupContent": "This I Block!",
-        "Name": "I Block"
+        "Title": "I Block"
       },
       "geometry": {
         "type": "Point",
@@ -31,7 +31,7 @@
       "id": 3,
       "properties": {
         "popupContent": "This the SIT front desk!",
-        "Name": "Reception"
+        "Title": "Reception"
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +43,7 @@
       "id": 4,
       "properties": {
         "popupContent": "This the SIT Library!",
-        "Name": "Library"
+        "Title": "Library"
       },
       "geometry": {
         "type": "Point",
