@@ -7,7 +7,7 @@ var poly = {
       "id": 1,
       "properties": {
       "name":"Hanson Hall",
-      "colour":"#800026"
+
       },
       "geometry": {
       "type":"Polygon",
