@@ -15,6 +15,3 @@ var poly = {
     }
     ]
 };
-for(var i in poly.features)
-	poly.features[i].properties.color = '#800026';
-
