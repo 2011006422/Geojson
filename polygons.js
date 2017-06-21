@@ -1,10 +1,7 @@
 var poly = {
-  "type": "FeatureCollection",
-
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
+  "type": "FeatureCollection","features": [
+    { "type": "Feature",
+      "id": "01",
       "properties": {
       "name":"Hanson Hall"
       },
