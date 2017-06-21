@@ -6,8 +6,7 @@ var poly = {
       "type": "Feature",
       "id": 1,
       "properties": {
-      "name":"Hanson Hall",
-
+      "name":"Hanson Hall"
       },
       "geometry": {
       "type":"Polygon",
